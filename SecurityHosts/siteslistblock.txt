@@ -1,0 +1,298 @@
+127.0.0.1    codeload.github.com
+
+127.0.0.1    support.kaspersky.ru
+
+127.0.0.1    kaspersky.ru
+
+127.0.0.1    virusinfo.info
+
+127.0.0.1    forum.kasperskyclub.ru
+
+127.0.0.1    cyberforum.ru
+
+127.0.0.1    soft-file.ru
+
+127.0.0.1    www.360totalsecurity.com
+
+127.0.0.1    cezurity.com
+
+127.0.0.1    www.dropbox.com
+
+127.0.0.1    193.228.54.23
+
+127.0.0.1    spec-komp.com
+
+127.0.0.1    eset.ua
+
+127.0.0.1    regist.safezone.cc
+
+127.0.0.1    panel.koronavirusfuck.xyz
+
+127.0.0.1    360totalsecurity.com
+
+127.0.0.1    www.esetnod32.ru
+
+127.0.0.1    www.comss.ru
+
+127.0.0.1    safezone.cc
+
+127.0.0.1    blog-pc.ru
+
+127.0.0.1    www.securrity.ru
+
+127.0.0.1    vellisa.ru
+
+127.0.0.1    download-software.ru
+
+127.0.0.1    drweb-cureit.ru
+
+127.0.0.1    softpacket.ru
+
+127.0.0.1    www.kaspersky.com
+
+
+127.0.0.1    www.avast.ua
+
+127.0.0.1    www.avast.ru
+
+127.0.0.1    zillya.ua
+
+127.0.0.1    safezone.ua
+
+127.0.0.1    vms.drweb.ru
+
+127.0.0.1    www.drweb.ua
+
+127.0.0.1    free.drweb.ru
+
+127.0.0.1    biblprog.org.ua
+
+127.0.0.1    free-software.com.ua
+
+127.0.0.1    free.dataprotection.com.ua
+
+127.0.0.1    www.drweb.com
+
+127.0.0.1    www.softportal.com
+
+127.0.0.1    www.nashnet.ua
+
+127.0.0.1    softlist.com.ua
+
+
+127.0.0.1    it-doc.info
+
+127.0.0.1    esetnod32.ru
+
+127.0.0.1    blog-bridge.ru
+
+127.0.0.1    remontka.pro
+
+127.0.0.1    securos.org.ua
+
+127.0.0.1    pc-helpp.com
+
+127.0.0.1    softdroid.net
+
+
+127.0.0.1    malwarebytes.com
+
+127.0.0.1    ru.vessoft.com
+
+127.0.0.1    AlpineFile.ru
+
+127.0.0.1    malwarebytes-anti-malware.ru.uptodown.com
+
+127.0.0.1    ProgramDownloadFree.com
+
+127.0.0.1    download.cnet.com
+
+127.0.0.1    soft.mydiv.net
+
+127.0.0.1    spyware-ru.com
+
+127.0.0.1    remontcompa.ru
+
+127.0.0.1    www.hitmanpro.com
+
+127.0.0.1    hitman-pro.ru.uptodown.com
+
+127.0.0.1    www.bleepingcomputer.com
+
+127.0.0.1    soft.oszone.net
+
+127.0.0.1    krutor.org
+
+127.0.0.1    RuTracker.org
+
+127.0.0.1    www.greatis.com
+
+127.0.0.1    unhackme.ru.uptodown.com
+
+127.0.0.1    programy.com.ua
+
+127.0.0.1    rsload.net
+
+127.0.0.1    softobase.com
+
+
+127.0.0.1    www.besplatnoprogrammy.ru
+
+127.0.0.1    unhackme.en.softonic.com
+
+127.0.0.1    unhackme.com
+
+127.0.0.1    unhackme.ru
+
+127.0.0.1    nnm-club.name
+
+127.0.0.1    vgrom.com
+
+127.0.0.1    moneropool.com
+
+127.0.0.1    mine.moneropool.com
+
+127.0.0.1    xmr.cryptopool.org
+
+127.0.0.1    pool.monero.org
+
+127.0.0.1    minexmr.com
+
+127.0.0.1    monero.crypto-pool.fr
+
+127.0.0.1    dwarfpool.com
+
+127.0.0.1    disk-space.ru
+
+127.0.0.1    file7.ru
+
+127.0.0.1    ufille.ru
+
+127.0.0.1    rgho.st
+
+127.0.0.1    yadi.su
+
+127.0.0.1    catcut.net
+
+127.0.0.1    fsdisk.ru
+
+127.0.0.1    rpfile.ru
+
+127.0.0.1    cheats.file-a.ru
+
+127.0.0.1    file-space.org
+
+127.0.0.1    sfailo.ru
+
+127.0.0.1    sendspace.com
+
+127.0.0.1    www.sendspace.com
+
+127.0.0.1    fille-7.ru
+
+127.0.0.1    loufile.ru
+
+127.0.0.1    file-seven.com
+
+127.0.0.1    file-a.ru
+
+127.0.0.1    fail-7.ru
+
+127.0.0.1    1-kk.ru
+
+127.0.0.1    rufile.net
+
+127.0.0.1    filexpwx.space
+
+127.0.0.1    sfile.net
+
+127.0.0.1    mdiskfile.com
+
+127.0.0.1    mega.nz
+
+127.0.0.1    dfile.su
+
+127.0.0.1    rgfail.ru
+
+127.0.0.1    rudwnl.ru
+
+127.0.0.1    dfile.info
+
+127.0.0.1    flles.ru
+
+127.0.0.1    pool.minexmr.to
+
+
+127.0.0.1    ska4ay.pl
+
+127.0.0.1    ska4ay.ru
+
+127.0.0.1    ska4ay.club
+
+127.0.0.1    ska4ay.net
+
+127.0.0.1    ska4ay.org
+
+127.0.0.1    ska4ay.com
+
+127.0.0.1    ska4ay.pro
+
+127.0.0.1    ska4ay.pw
+
+127.0.0.1    ska4ay.online
+
+127.0.0.1    skachaty.pl
+
+127.0.0.1    skachaty.ru
+
+127.0.0.1    skachaty.club
+
+127.0.0.1    skachaty.net
+
+127.0.0.1    skachaty.org
+
+127.0.0.1    skachaty.com
+
+127.0.0.1    skachaty.pro
+
+127.0.0.1    skachaty.pw
+
+127.0.0.1    skachaty.online
+
+127.0.0.1    skachay.pl
+
+127.0.0.1    skachay.ru
+
+127.0.0.1    skachay.club
+
+127.0.0.1    skachay.net
+
+127.0.0.1    skachay.org
+
+127.0.0.1    skachay.com
+
+127.0.0.1    skachay.pro
+
+127.0.0.1    skachay.pw
+
+127.0.0.1    skachay.website
+
+127.0.0.1    skachay.online
+
+127.0.0.1    ska4aty.pl
+
+127.0.0.1    ska4aty.ru
+
+127.0.0.1    ska4aty.club
+
+127.0.0.1    ska4aty.net
+
+127.0.0.1    ska4aty.org
+
+127.0.0.1    ska4aty.com
+
+127.0.0.1    ska4aty.pro
+
+127.0.0.1    ska4aty.pw
+
+127.0.0.1    ska4aty.online
