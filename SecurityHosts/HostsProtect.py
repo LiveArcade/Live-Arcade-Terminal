@@ -4,6 +4,9 @@ import time
 import ctypes
 import winreg
 
+
+os.system('title HostsProtect.py')
+    
 print('Запущенно, пожалуйста старайтесь не отключать программу, ваш hosts под защитой!')
 
 # Путь к файлу hosts
